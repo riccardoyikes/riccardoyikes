@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Riccardo March
+- 👀 I’m interested in App / Software Development
+- 🌱 I’m currently learning Software Engineering
